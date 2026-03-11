@@ -102,7 +102,7 @@ This project provided hands-on experience in:
 
 # 🎓 Mentor
 
-Jagadeesh Kumar P
+Dr. Jagadeesh Kumar P
 
 ---
 
